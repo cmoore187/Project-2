@@ -26,4 +26,4 @@ CREATE TABLE Accidental_Injuries(
 	Operations VARCHAR
 );
 
-SELECT * FROM Accidental_Injuries;
+--SELECT * FROM Accidental_Injuries;
